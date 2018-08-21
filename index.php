@@ -81,11 +81,12 @@
 									</div>
 									<!-- Form Group -->
 									<div class="form-group">
-										<input type="text" name="password" id="password" class="form-control" placeholder="Enter Password....">
+										<input type="password" name="password" id="password" class="form-control" placeholder="Enter Password....">
+										<div class="password-error error"></div>
 									</div>
 									<!-- Form Group -->
 									<div class="form-group">
-										<input type="text" name="confirm" id="confirm" class="form-control" placeholder="Confirm Password....">
+										<input type="password" name="confirm" id="confirm" class="form-control" placeholder="Confirm Password....">
 									</div>
 									<!-- Form Group -->
 									<div class="form-group">

@@ -126,3 +126,7 @@ body{
 .error{
 	color: red;
 }
+.fa-spinner{
+	font-size: 14px;
+	color: #7047d7;
+}
